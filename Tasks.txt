@@ -1,0 +1,51 @@
+
+Dataset: Market Sales Dataset.xlsx
+These are the below requirement that each & everyone must meet up in their report.
+
+1. Revenue (Order Quantity x Price Each).
+
+2. Product Wise Revenue.
+
+3. Top 5 products by order quantity with Conditional Formatting(Medium Green for Highest, Light Green for Lowest).
+
+4. Bottom 3 products with Lowest Revenue.
+
+5. Month with Highest Sales.
+
+6. Revenue by state Visual.
+
+7. Date with Highest number of Orders.
+
+8. Top 3 City with Highest Revenue.
+
+9. YTD, QTD Revenue.
+
+10. Year wise Revenue Comparison.
+
+11. Weekday vs Weekend Revenue.
+
+12. Forecast Order Quantity for next 3 months.
+
+13. Map Visual with Cities and Revenue as Bubble Size.
+
+14. YOY, MoM growth in Revenue.
+
+15. Drill down of State -> City with Revenue.
+
+16. Conditional Formatting of Product Wise Revenue Table with background colour based on Revenue
+	a)Lowest Value -> Red Colour.
+	b)Middle Value -> Orange.
+	c)Highest Value -> Green.
+
+17. 7 Week Running total of revenue.
+
+18. YTD vs Previous Year YTD, MTD vs Previous Month MTD Revenue comparison.
+
+19. Month-On-Month Revenue Change.
+
+20. Conditional Formatting of State Wise Revenue Table Visual with background colour based on Rules:-
+	a)If 0 <Value <8% of total Revenue, light red colour.
+	b)If 8% <Value <10% of total Revenue, light orange colour.
+	c)If 10% <Value <35% of total Revenue, light blue colour.
+	d)If 35% <Value of total Revenue, light green colour.
+
